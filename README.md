@@ -11,6 +11,8 @@
 🥾 Outdoor Activities
 🤖 Technology!
 
+<img align="right" height="270px" width="450px" alt="GIF" src="[https://media.giphy.com/media/3FjEPbKqEPhPpmC8uY/giphy.gif](https://assets.sbnation.com/assets/1577137/Bosh-Lebron.gif)" />
+
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
