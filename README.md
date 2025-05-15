@@ -1,5 +1,5 @@
 
-### Trying things out!!
+# Who is Peter!
 
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
