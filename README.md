@@ -8,13 +8,13 @@
   <h3> I'm 21 years old Full-Stack developer from India.</h3>
 </p>
 
- - 🥀 Learning Swift & Objective_C
+ - 🎓 Student at the University of Texas at Arlington in Computer Science<br>
  
- - <i>with Javascript, Typescript, React and 69 others.</i>
-   
- - 🔭 SpaceX FanBoi, die for space😼
+ - 🫧 ACM Outreach Officer<br>
 
- - 🛸 Into High Energy Physics and Astrophysics, i love shooting stars too.
+ - 🌱 SASE Events Chair<br>
+
+ - 💬 Always Learning<br>
  
  - I do fullstack and a bit of everything :heart:
  
