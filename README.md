@@ -10,12 +10,7 @@
   🫧 ACM Outreach Officer<br>
   🌱 SASE Events Chair<br>
   💬 Always Learning<br>
-  ⚡ Just doing it for the love of the game<br>
- 
- 
- - All About living life at its best.
- 
- - 💬 Connect? lets get social 👉🏼[<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/_hemant_joshi)
+  🎲 Just doing it for the love of the game<br>
  
  <p align="center">
   <h4> Full Stack | Competitive Programming </h4>
