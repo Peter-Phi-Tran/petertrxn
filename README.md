@@ -1,6 +1,6 @@
 
 # Who is Peter!
-
+- ACM Outreach Officer<br> - SASE Events Chair<br> - All Things Technology<br> For the Love of the Game<br>
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
