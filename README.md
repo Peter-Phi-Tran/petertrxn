@@ -4,6 +4,7 @@
 - SASE Events Chair<br>
 - All Things Technology<br>
 - For the Love of the Game<br>
+[![ACM](https://img.shields.io/badge/ACM-%230077B5.svg?style=for-the-badge&logoColor=white)](https://acm.org)
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
