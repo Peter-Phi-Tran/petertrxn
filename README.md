@@ -1,5 +1,7 @@
 <h1 align="center"> Hello, how's it going! </h1>
 
+<sup> Urmom <\sup>
+
 <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZudW50ZzY1Z3ZsMTRpcms3MTBtMXV1OTBoeWdrdWJkbHIzcWhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CqxtAEdguUgC2I/giphy.gif" /> <br>
 
 🎓 Student at the University of Texas at Arlington in Computer Science<br>
