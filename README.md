@@ -5,8 +5,6 @@
 <p align="center">
 <!--   <h3> :) </h3> -->
 </p>
-
- 
   🫧 ACM Outreach Officer<br>
   🌱 SASE Events Chair<br>
   💬 Always Learning<br>
