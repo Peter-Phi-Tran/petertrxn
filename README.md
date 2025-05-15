@@ -7,7 +7,7 @@
 🌱 SASE Events Chair  
 💬 Always Learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SASE UTA](https://img.shields.io/badge/SASE_UTA-Official-%23ff6600.svg?style=for-the-badge)](https://www.utasase.org/)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ACM UTA](https://img.shields.io/badge/ACM_UTA-%230077B5.svg?style=for-the-badge&logo=data:image/png;base64,BASE64_ENCODED_IMAGE)](https://www.acmuta.com/)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![SASE UTA](https://img.shields.io/badge/SASE_UTA-%2385d297.svg?style=for-the-badge)](https://www.utasase.org/)<br>
 
 
