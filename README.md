@@ -7,11 +7,11 @@
 </p>
 
  
- &nbsp; 🫧 ACM Outreach Officer<br>
- &nbsp; 🌱 SASE Events Chair<br>
- &nbsp; 💬 Always Learning<br>
+  🫧 ACM Outreach Officer<br>
+  🌱 SASE Events Chair<br>
+  💬 Always Learning<br>
+  ⚡ Just doing it for the love of the game<br>
  
- - I do fullstack and a bit of everything :heart:
  
  - All About living life at its best.
  
