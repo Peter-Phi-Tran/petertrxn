@@ -5,6 +5,7 @@
 <img align="right" alt="GIF" height="250px" width="350px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZudW50ZzY1Z3ZsMTRpcms3MTBtMXV1OTBoeWdrdWJkbHIzcWhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CqxtAEdguUgC2I/giphy.gif" /> <br>
 <p align="center">
 </p>
+
   🫧 ACM Outreach Officer<br>
   
   🌱 SASE Events Chair<br>
