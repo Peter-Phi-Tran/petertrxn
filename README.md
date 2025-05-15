@@ -15,9 +15,6 @@
   🎲 Do it for the love of the game<br>
   
   🥾 Might be outside<br>
-  
-
-<br><br>
 
 ###  Some Tech I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
