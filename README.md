@@ -1,5 +1,5 @@
 
-<h1> How's it going! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
+<h1> How's it going!<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 <sub> *For the Love of the Game* </sub>
 
 🫧 ACM Outreach Officer<br>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![ACM UTA](https://img.shields.io/badge/ACM_UTA-%230077B5.svg?style=for-the-badge&logo=data:image/png;base64,BASE64_ENCODED_IMAGE)](https://www.acmuta.com/)<br>
