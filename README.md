@@ -8,7 +8,9 @@
   🫧 ACM Outreach Officer<br>
   🌱 SASE Events Chair<br>
   💬 Always Learning<br>
-  🎲 Just doing it for the love of the game<br>
+  🎲 Do it for the love of the game<br>
+  🥾 Might be outside<br>
+  
 
 <br>
 <br>
