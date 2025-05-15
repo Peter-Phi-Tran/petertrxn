@@ -9,9 +9,7 @@
 
 🏐 Volleyball
 🥾 Outdoor Activities
-🤖 Technology!
-
-<img align="right" alt="GIF" src="https://assets.sbnation.com/assets/1577137/Bosh-Lebron.gif" />
+🤖 Technology!<img align="right" alt="GIF" src="https://assets.sbnation.com/assets/1577137/Bosh-Lebron.gif" />
 
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
