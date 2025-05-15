@@ -4,7 +4,8 @@
 - SASE Events Chair<br>
 - All Things Technology<br>
 - For the Love of the Game<br>
-[![ACM UTA](https://www.acmuta.com/assets/images/logo.png)](https://www.acmuta.com/)
+[![ACM UTA](https://img.shields.io/badge/ACM_UTA-%230077B5.svg?style=for-the-badge&logo=data:image/png;base64,BASE64_ENCODED_IMAGE)](https://www.acmuta.com/)
+
 
 <!--
 **petertrxn/petertrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
