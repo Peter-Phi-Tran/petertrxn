@@ -6,12 +6,9 @@
 <!--   <h3> :) </h3> -->
 </p>
 
- - 🎓 Student at the University of Texas at Arlington in Computer Science<br>
  
  - 🫧 ACM Outreach Officer<br>
-
  - 🌱 SASE Events Chair<br>
-
  - 💬 Always Learning<br>
  
  - I do fullstack and a bit of everything :heart:
