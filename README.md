@@ -1,8 +1,7 @@
 <h1 align="center"> How's it going! </h1>
 <img align="right" alt="GIF" height="200px" width="300px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZudW50ZzY1Z3ZsMTRpcms3MTBtMXV1OTBoeWdrdWJkbHIzcWhmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46CqxtAEdguUgC2I/giphy.gif" /> <br>
 <p align="center">
-  <sub> For the Love of the Game </sub>
-  <h3> I'm 21 years old Full-Stack developer from India.</h3>
+  <h3> :) </h3>
 </p>
 
  - 🎓 Student at the University of Texas at Arlington in Computer Science<br>
