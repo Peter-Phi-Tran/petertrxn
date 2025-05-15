@@ -11,10 +11,7 @@
   🌱 SASE Events Chair<br>
   💬 Always Learning<br>
   🎲 Just doing it for the love of the game<br>
- 
- <p align="center">
-  <h4> Full Stack | Competitive Programming </h4>
-   </p>
+
 <br>
 <br>
 <br>
